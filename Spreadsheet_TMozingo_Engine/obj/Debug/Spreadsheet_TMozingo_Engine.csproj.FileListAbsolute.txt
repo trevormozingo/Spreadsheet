@@ -1,0 +1,5 @@
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo_Engine\bin\Debug\Spreadsheet_TMozingo_Engine.dll
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo_Engine\bin\Debug\Spreadsheet_TMozingo_Engine.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo_Engine\obj\Debug\Spreadsheet_TMozingo_Engine.dll
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo_Engine\obj\Debug\Spreadsheet_TMozingo_Engine.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo_Engine\obj\Debug\Spreadsheet_TMozingo_Engine.csprojResolveAssemblyReference.cache

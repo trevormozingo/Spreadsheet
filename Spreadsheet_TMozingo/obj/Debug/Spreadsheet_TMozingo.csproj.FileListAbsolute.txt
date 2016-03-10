@@ -1,0 +1,11 @@
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\bin\Debug\Spreadsheet_TMozingo.exe.config
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.csprojResolveAssemblyReference.cache
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.Form1.resources
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.Properties.Resources.resources
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.csproj.GenerateResource.Cache
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\bin\Debug\Spreadsheet_TMozingo.exe
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\bin\Debug\Spreadsheet_TMozingo.pdb
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.exe
+c:\users\trevor\documents\visual studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\obj\Debug\Spreadsheet_TMozingo.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\bin\Debug\Spreadsheet_TMozingo_Engine.dll
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\Spreadsheet_TMozingo\Spreadsheet_TMozingo\bin\Debug\Spreadsheet_TMozingo_Engine.pdb
